@@ -14,7 +14,7 @@ NIMO is my first personal electronics project built around an ESP32-C3 SuperMini
 - Touch sensor
 - Push buttons
 - 2-channel relay module
-- LEDs and resistors
+- LEDs and resistors 
 
 ## Planned Features
 - Digital clock and date
